@@ -5,7 +5,7 @@ Codewars:
      3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
      4. http://www.codewars.com/kata/transportation-on-vacation
      5. http://www.codewars.com/kata/get-the-middle-character
-     6. <p style="color:#ff0000">http://www.codewars.com/kata/partition-on NOT DONE</p>
+     6. http://www.codewars.com/kata/partition-on <p style="color:#ff0000">NOT DONE</p>
      7. http://www.codewars.com/kata/word-count
      8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
      9. http://www.codewars.com/kata/implement-a-filter-function
